@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cadu/Work/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-4221ada5fafc74642fced05ad595a6ddeef4a111.jar" />
+    </item>
+    <item
+        jar="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/exploded-aar/PindaibaBKP/ParseLoginUI/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f939f9620e614d75045ba55c8e280a19bca4332">
+        <dex dex="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/pre-dexed/debug/classes-9db34b1cc97f38bcc21c61790ea5ac3ab6e14d48.jar" />
+    </item>
+    <item
+        jar="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/pre-dexed/debug/classes-7d3cbd1449c43d232be3d1a3c60aebcaa5a556a1.jar" />
+    </item>
+    <item
+        jar="/Users/cadu/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.1-9ec40c703cf053734a36bebb7e80f97a5c0a4ad9.jar" />
+    </item>
+    <item
+        jar="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/pre-dexed/debug/classes-1431f7a81553b6f574af5df6e18a731b97b3e62a.jar" />
+    </item>
+    <item
+        jar="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/exploded-aar/com.mikepenz/fontawesome-typeface/4.4.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e8ad61c604470ee6933c21ae0aefcf9ee03c3911">
+        <dex dex="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/pre-dexed/debug/classes-6cae84926643a932d8cc0d009d1275e8708adcc9.jar" />
+    </item>
+    <item
+        jar="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/exploded-aar/com.mikepenz/google-material-typeface/1.2.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b646d398bbae664de1bf476c308a2b39d6d2651c">
+        <dex dex="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/pre-dexed/debug/classes-15219fc8e803bed6bfe0988f070bd1860c94bec7.jar" />
+    </item>
+    <item
+        jar="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-46a6bf7224b07f30738eab82cabbac4781806798.jar" />
+    </item>
+    <item
+        jar="/Users/cadu/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.10.1/a87cb993a12e574a216213d0b8b2b78f6da35d37/parse-android-1.10.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a87cb993a12e574a216213d0b8b2b78f6da35d37">
+        <dex dex="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/pre-dexed/debug/parse-android-1.10.1-03aac35d0843577d2dda7fcb128d1ccaddf245a1.jar" />
+    </item>
+    <item
+        jar="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/pre-dexed/debug/classes-9d63b308803b0891bc4d0218fc030b968317dc1a.jar" />
+    </item>
+    <item
+        jar="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7188fc9a524a8f965b5aeab74879036f0431080">
+        <dex dex="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/pre-dexed/debug/classes-983e50cd340622c9bb0dcda7c9ba77e052f6a8c7.jar" />
+    </item>
+    <item
+        jar="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/pre-dexed/debug/classes-2e1538d4a8447ebf89b0f3b5ae83bf1e29825e31.jar" />
+    </item>
+    <item
+        jar="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/cadu/Work/Faculdade/PindaibaBKP/app/build/intermediates/pre-dexed/debug/classes-249f17e9e69fc9852916fd5ac4a05a088c6bc26d.jar" />
+    </item>
+
+</items>

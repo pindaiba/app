@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="activity.ComandaIndividualFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/listaitens"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="8dp"
+        android:layout_alignBottom="@id/listaitens">
+
+        <View
+            android:id="@+id/material_drawer_divider"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:backgroundTint="@color/divider"
+            android:background="@color/divider" />
+
+    </RelativeLayout>
+
+</FrameLayout>

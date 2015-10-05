@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="TemaPindaiba" parent="TemaPindaiba.Base">
+
+
+    </style>
+    <!-- Base application theme. -->
+    <style name="TemaPindaiba.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+    </style>
+
+</resources>

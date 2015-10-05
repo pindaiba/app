@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Pindaíba</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_search">Busca</string>
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Fechar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="sair">Sair</string>
+    <string name="mensagem_sair_do_app">Você tem certeza que deseja sair da aplicação?</string>
+    <string name="titulo_comanda_individual">Sua comanda</string>
+    <string name="titulo_nova_cobranca">Inserir Cobrança</string>
+    <string name="titulo_historico_cobranca">Histórico do Cobranças</string>
+    <string name="titulo_historico_comanda">Histórico do Comandas</string>
+
+
+    <string name="msnErroInclusao"></string>
+    <string name="lbNomeGrupo"></string>
+    <string name="lbDescricaoGrupo"></string>
+    <string name="btnSalvar"></string>
+    <string name="btnListar"></string>
+    <string name="btnListarTipoUnidadeMedida"></string>
+    <string name="btnListarTipoItemMenu"></string>
+    <string name="btnListarTipoEstabelecimento"></string>
+
+
+    <string name="parse_app_id">nFNZ8Tuer29GijqcGhl1OoJwcrm5oml7QzzH0wZG</string>
+    <string name="parse_client_key">gdybm9pUjQNiOD26X4PqVm6lj6EiAPqdZESxL91X</string>
+    <string name="facebook_app_id">1065405813472535</string>
+
+    <string name="drawer_item_home">Home</string>
+    <string name="drawer_item_nova_comanda">Nova Comanda</string>
+    <string name="drawer_item_nova_cobranca">Nova Cobrança</string>
+    <string name="drawer_item_historico_comanda">Histórico de Comanda</string>
+    <string name="drawer_item_historico_cobranca">Histórico de Cobranças</string>
+    <string name="drawer_item_sair">SAIR</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/drawer_item_home</item>
+        <item>@string/drawer_item_nova_comanda</item>
+        <item>@string/drawer_item_nova_cobranca</item>
+        <item>@string/drawer_item_historico_comanda</item>
+        <item>@string/drawer_item_historico_cobranca</item>
+    </string-array>
+
+    <string-array name="my_facebook_permissions">
+        <item>public_profile</item>
+        <item>user_friends</item>
+    </string-array>
+
+
+    <string name="title_activity_splash_screen">Pindaíba</string>
+    <string name="loadingText">Imagem de Loading</string>
+    <string name="iconeDescricao">Icone do Drawer</string>
+    <string name="title_activity_pindaiba_login">PindaibaLogin</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_comanda_individual">Consumo Geral</string>
+    <string name="fragment_comanda_individual_bebidas">Gasto por Bebidas</string>
+    <string name="fragment_comanda_individual_comidas">Gasto por Comidas</string>
+    <string name="fragment_menunivel1">Pindaíba</string>
+    <string name="fragment_menunivel2">Pindaíba</string>
+    <string name="fragment_cobranca">Tela de Adição de Cobrança</string>
+    <string name="fragment_historico_cobranca">Tela de Historico de Cobranca</string>
+    <string name="fragment_historico_comanda">Tela de Historico de Comandas</string>
+
+</resources>
