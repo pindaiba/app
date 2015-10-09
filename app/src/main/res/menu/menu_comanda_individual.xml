@@ -8,8 +8,8 @@
         android:title="@string/editar_nome_comanda"
         android:orderInCategory="100"
         app:showAsAction="always|collapseActionView"
-        android:actionLayout="@layout/custom_actionbar_title"
-        app:actionLayout="@layout/custom_actionbar_title"
+        android:actionViewClass="android.support.v7.widget.SearchView"
+        app:actionViewClass="android.support.v7.widget.SearchView"
         android:icon="@drawable/ic_create_white_18dp" />
 
     <item

@@ -52,9 +52,12 @@ public class ComandaIndividual extends AppCompatActivity {
 
         MenuItem busca = menu.findItem(R.id.buscar_item_comanda);
         SearchView searchView = (SearchView) MenuItemCompat.getActionView(busca);
+        searchView.setQueryHint("Critério de busca");
 
         MenuItem editar = menu.findItem(R.id.editar_nome_comanda);
-        EditText editarNomeComanda = (EditText) MenuItemCompat.getActionView(editar);
+        SearchView editarNomeComanda = (SearchView) MenuItemCompat.getActionView(editar);
+        editarNomeComanda.setIconifiedByDefault(true);
+        editarNomeComanda.setQueryHint("Nome da Comanda");
 
         return true;
     }
