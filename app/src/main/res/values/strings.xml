@@ -11,6 +11,8 @@
     <string name="titulo_nova_cobranca">Inserir Cobrança</string>
     <string name="titulo_historico_cobranca">Histórico do Cobranças</string>
     <string name="titulo_historico_comanda">Histórico do Comandas</string>
+    <string name="editar_nome_comanda">Nome da Comanda</string>
+    <string name="buscar_item_comanda">Efetuar Busca</string>
 
 
     <string name="msnErroInclusao"></string>
@@ -64,5 +66,10 @@
     <string name="fragment_cobranca">Tela de Adição de Cobrança</string>
     <string name="fragment_historico_cobranca">Tela de Historico de Cobranca</string>
     <string name="fragment_historico_comanda">Tela de Historico de Comandas</string>
+    <string name="title_activity_comanda_individual">Sua Comanda</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
 
 </resources>

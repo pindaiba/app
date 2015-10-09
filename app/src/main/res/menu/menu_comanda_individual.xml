@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="activity.ComandaIndividual">
+
+    <item
+        android:id="@+id/editar_nome_comanda"
+        android:title="@string/editar_nome_comanda"
+        android:orderInCategory="100"
+        app:showAsAction="always|collapseActionView"
+        android:actionLayout="@layout/custom_actionbar_title"
+        app:actionLayout="@layout/custom_actionbar_title"
+        android:icon="@drawable/ic_create_white_18dp" />
+
+    <item
+        android:id="@+id/buscar_item_comanda"
+        android:title="@string/editar_nome_comanda"
+        android:orderInCategory="100"
+        app:showAsAction="always|collapseActionView"
+        android:icon="@drawable/ic_search_white_18dp"
+        android:actionViewClass="android.support.v7.widget.SearchView"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        />
+
+
+</menu>

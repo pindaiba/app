@@ -18,7 +18,9 @@
             card_view:cardCornerRadius="0dp"
             card_view:cardElevation="8dp"
             android:clickable="true"
-            android:foreground="?android:attr/selectableItemBackground">
+            android:foreground="?android:attr/selectableItemBackground"
+            android:id="@+id/botaoNovaComanda"
+            android:onClick="novaComanda">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -76,7 +78,8 @@
             card_view:cardCornerRadius="0dp"
             card_view:cardElevation="8dp"
             android:clickable="true"
-            android:foreground="?android:attr/selectableItemBackground">
+            android:foreground="?android:attr/selectableItemBackground"
+            android:id="@+id/botaoPagaEU">
 
             <RelativeLayout
                 android:layout_width="match_parent"

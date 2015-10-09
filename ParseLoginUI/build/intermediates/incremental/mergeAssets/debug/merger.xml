@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/cadu/Work/Faculdade/PindaibaBKP/ParseLoginUI/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/cadu/Work/Faculdade/PindaibaBKP/ParseLoginUI/src/debug/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/cadu/app/ParseLoginUI/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/cadu/app/ParseLoginUI/src/debug/assets"/></dataSet></merger>

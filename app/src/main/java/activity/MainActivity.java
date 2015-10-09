@@ -1,5 +1,6 @@
 package activity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -38,6 +39,10 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
 
         displayView(0);
 
+    }
+
+    public void novaComanda(View v){
+        startActivity(new Intent(MainActivity.this, ComandaIndividual.class));
     }
 
     @Override
