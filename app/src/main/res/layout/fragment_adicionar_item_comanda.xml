@@ -3,7 +3,94 @@
     android:layout_height="match_parent" tools:context="activity.AdicionarItemComandaFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView android:layout_width="match_parent" android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
 
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/primary">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:contentDescription="@string/icone_item_nome"
+            android:src="@drawable/ic_photo_camera_black_24dp"
+            android:minWidth="50dp"
+            android:minHeight="50dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/adicionar_item_button"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="27dp"
+            android:text="@string/adicionar_item_button_text" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/adicionar_item_descricao"
+            android:id="@+id/textView4"
+            android:textSize="16sp"
+            android:layout_below="@+id/imageView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView4"
+            android:layout_marginTop="60dp"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal"
+            android:layout_alignStart="@+id/textView4"
+            android:layout_alignEnd="@+id/textView4"
+            android:layout_alignParentEnd="false"
+            android:layout_alignParentStart="false"
+            android:id="@+id/radioGroup">
+
+            <RadioButton
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/radio_bebidas_titulo"
+                android:id="@+id/radioButton"
+                android:layout_gravity="left"
+                android:layout_weight="1" />
+
+            <RadioButton
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/radio_comidas_titulo"
+                android:id="@+id/radioButton2"
+                android:layout_gravity="right"
+                android:layout_weight="1" />
+
+        </RadioGroup>
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/itens_spinner"
+            android:layout_below="@+id/radioGroup"
+            android:layout_alignStart="@+id/radioGroup"
+            android:layout_alignEnd="@+id/radioGroup"
+            android:padding="0dp"
+            android:layout_marginTop="20dp" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText"
+            android:layout_below="@+id/itens_spinner"
+            android:layout_alignStart="@+id/itens_spinner"
+            android:hint="@string/valor_text_hint"
+            android:layout_alignEnd="@+id/itens_spinner"
+            android:layout_marginTop="20dp" />
+
+    </RelativeLayout>
 </FrameLayout>

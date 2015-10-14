@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                 title = getString(R.string.titulo_comanda_individual);
                 break;
             case 2:
-                fragment = new NovaCobrancaFragment();
+                fragment = new AdicionarItemComandaFragment();
                 title = getString(R.string.titulo_nova_cobranca);
                 break;
             case 3:

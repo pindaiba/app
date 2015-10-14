@@ -83,9 +83,11 @@ public class ComandaIndividual extends AppCompatActivity {
     }
 
     private void buscaComanda() {
+        
     }
 
     private void editarNomeComanda() {
+
     }
 }
 

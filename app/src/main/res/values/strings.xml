@@ -31,17 +31,43 @@
 
     <string name="drawer_item_home">Home</string>
     <string name="drawer_item_nova_comanda">Nova Comanda</string>
-    <string name="drawer_item_nova_cobranca">Nova Cobrança</string>
-    <string name="drawer_item_historico_comanda">Histórico de Comanda</string>
-    <string name="drawer_item_historico_cobranca">Histórico de Cobranças</string>
+    <string name="add_item_drawer">Adicionar Item</string>
     <string name="drawer_item_sair">SAIR</string>
+
+    <string name="home_icone">R.drawable.ic_action_addcomanda</string>
+    <string name="addcomanda_icone">R.drawable.ic_action_addcomanda</string>
+
+    <integer-array name="nav_drawer_icones">
+        <item>@string/home_icone</item>
+        <item>@string/addcomanda_icone</item>
+    </integer-array>
 
     <string-array name="nav_drawer_labels">
         <item>@string/drawer_item_home</item>
         <item>@string/drawer_item_nova_comanda</item>
-        <item>@string/drawer_item_nova_cobranca</item>
-        <item>@string/drawer_item_historico_comanda</item>
-        <item>@string/drawer_item_historico_cobranca</item>
+        <item>@string/add_item_drawer</item>
+    </string-array>
+
+    <string-array name="bebidas">
+        <item>Selecione um item</item>
+        <item>Coca Cola</item>
+        <item>Chopp Brahma</item>
+        <item>Cerveja Long Neck</item>
+        <item>Suco DelVale</item>
+        <item>Guraná Antartica Zero</item>
+        <item>Pepsi Zero</item>
+        <item>Suco de Limão</item>
+    </string-array>
+
+    <string-array name="comidas">
+        <item>Selecione um item</item>
+        <item>Batata Frita Porção</item>
+        <item>Sanduiche de Frango</item>
+        <item>Mandioca Porção</item>
+        <item>Calabresa Porção</item>
+        <item>Asinha de Frango Porção</item>
+        <item>Isca de Peixe Porção</item>
+        <item>Beirut de Carne</item>
     </string-array>
 
     <string-array name="my_facebook_permissions">
@@ -71,5 +97,15 @@
     <string name="title_section1">Section 1</string>
     <string name="title_section2">Section 2</string>
     <string name="title_section3">Section 3</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="adicionar_item_button_text">Adicionar</string>
+    <string name="icone_item_nome">Nome do Item</string>
+    <string name="adicionar_item_descricao">Adicione um produto a sua comanda</string>
+    <string name="radio_bebidas_titulo">Bebidas</string>
+    <string name="radio_comidas_titulo">Comidas</string>
+    <string name="valor_text_hint">Digite o valor</string>
+    <string name="quantidade_text_hint">Quantidade</string>
 
 </resources>
