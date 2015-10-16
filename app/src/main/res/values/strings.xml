@@ -103,6 +103,7 @@
     <string name="adicionar_item_button_text">Adicionar</string>
     <string name="icone_item_nome">Nome do Item</string>
     <string name="adicionar_item_descricao">Adicione um produto a sua comanda</string>
+    <string name="remover_item_descricao">Remover um produto a sua comanda</string>
     <string name="radio_bebidas_titulo">Bebidas</string>
     <string name="radio_comidas_titulo">Comidas</string>
     <string name="valor_text_hint">Digite o valor</string>
